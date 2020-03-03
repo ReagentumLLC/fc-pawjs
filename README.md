@@ -1,2 +1,2 @@
-# fc-pawjs
-Front Core plugins for pawjs
+# rui-pawjs
+Reagentum UI plugins for pawjs
